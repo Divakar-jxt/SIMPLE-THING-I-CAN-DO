@@ -1,3 +1,7 @@
-Hey, I know I’m sneaking in this wish a little late but maybe that makes it extra thoughtful? I hope your day was everything beautiful and bright, just like you. And yes... I know you’re totally going to scold me for making this during exams but c’mon, how could I not do something special for your day? Happy Birthday once again! 
-<3
-checkout this ;
+# Happy Birthday
+
+Website - [Happy Birthday](https://rishabh04-02.github.io/happy-birthday/)
+
+An easy to deploy, Happy Birthday animation design TEMPLATE.
+
+View Deployments [here](https://github.com/Rishabh04-02/happy-birthday/deployments)
